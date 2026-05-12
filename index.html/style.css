@@ -1,0 +1,69 @@
+*{
+    font-family: Tahoma;
+}
+.header-container{
+    position:relative;
+    display:inline-block;
+}
+.overlay-nav li{
+    display:inline;
+    margin: 0 15px;
+}
+.overlay-nav{
+    position:absolute;
+    top:0%;
+    left:30%;
+    transform: translate(-50,-50);
+    text-align: center;
+}
+.brand{
+    color:peru;
+    font-weight: bolder;
+    font-family:tahoma;
+    
+}
+.fashion{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    color:lightsalmon;
+    
+}
+.life{
+    
+    font-weight:bolder;
+}
+.main{
+    color:blue;
+    font-style: oblique;
+    font-weight: bolder;
+}
+.pix{
+    font-style:oblique;
+    color:navy;
+}
+.low{
+    font-weight: bolder;
+    font-display: block;
+}
+.ara{
+    font-weight: bold;
+}
+.logo{
+    display:block;
+    width:100%;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+.ara:hover{
+    background-color: lightblue;
+}
